@@ -1,0 +1,26 @@
+
+.odd {
+    background-color: #f39090;
+    font-size: 20px;
+    font-family: verdana,dejaVu,sans-serif;
+}
+
+
+#div2 {
+    color: blue;
+    font-size: 36px;
+    font-weight: 400;
+    background-color: white
+}
+
+
+#cooler {
+    font-size: 24px;
+} 
+
+.even {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
